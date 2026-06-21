@@ -1,1 +1,1 @@
-link: https://lucanicohe.github.io/smallmazegame/
+link: https://lucanicohe.github.io/smallmazegame/index.html
