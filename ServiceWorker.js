@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-mazegamenew-0.1.0";
 const contentToCache = [
-    "Build/mazetest.loader.js",
-    "Build/mazetest.framework.js",
-    "Build/mazetest.data",
-    "Build/mazetest.wasm",
+    "Build/mazetest2.loader.js",
+    "Build/mazetest2.framework.js",
+    "Build/mazetest2.data",
+    "Build/mazetest2.wasm",
     "TemplateData/style.css"
 
 ];
